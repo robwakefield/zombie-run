@@ -5,7 +5,7 @@
 // Version 3: Added graph and leaderboard to leaderboard screen
 // Version 4: Added data for leaderboard and ability to plot progress graph from a file
 // Version 5: Added start of gameplay and pause screen features
-// Version 6: Start gameplay ????? protect the brain in middke!
+// Version 6: Start gameplay ????? protect the brain in middle!
 //
 ////
 
